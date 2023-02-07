@@ -28,6 +28,10 @@ This is the final project of the course. The goal isto use pyspark on a project 
     
     2 - Install the comector
     
+    3 - Open PowerBi/select datasource = Mysql/write your server name (localhos in my case), and select database on the left and write your Mysql credentials
+    
+    
+    
     
 
 
