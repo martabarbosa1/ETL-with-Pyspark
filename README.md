@@ -26,9 +26,17 @@ This is the final project of the course. The goal isto use pyspark on a project 
   
     1 - Dowload conector installation file from: https://dev.mysql.com/downloads/connector/j/
     
-    2 - Install the comector
+    2 - Install the connector
     
     3 - Open PowerBi/select datasource = Mysql/write your server name (localhos in my case), and select database on the left and write your Mysql credentials
+    
+  6) Publish PowerBI report
+
+    1 - create professional e-mail and login in power bi desktop and power bi community
+    
+    2- publish the report and present it by expandind the window
+    
+    
     
     
     
