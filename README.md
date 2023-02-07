@@ -2,6 +2,15 @@
 
 This is the final project of the course. The goal isto use pyspark on a project of our choice. These are the steps I did to complete the project:
 
+1) Grab the data
+
+    1 - Projects funded in EU 2007-2013: https://data.europa.eu/data/datasets/cordisfp7projects?locale=pt
+    
+    3 - Projects funded in EU in 2014-2020: https://data.europa.eu/data/datasets/cordish2020projects?locale=pt
+    
+    2 - Projects funded in EU 2021-2027: https://data.europa.eu/data/datasets/cordis-eu-research-projects-under-horizon-europe-2021-2027?locale=en
+    
+
 1) Create pyspark and hadoop environment in desktop
 
     1 - Dowload Apache Spark from https://spark.apache.org/downloads.html
