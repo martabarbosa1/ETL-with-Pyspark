@@ -1,6 +1,9 @@
 # ETL-with-Pyspark
 
-This is the final project of the course. The goal isto use pyspark on a project of our choice. These are the steps I did to complete the project:
+This is the final project of the data Analyst course. We had 3 specializations to choose. I chose the pre-engineering track, where the goal is to use pyspark and/or mongodb on a project of our choice. I decided to create a workflow from a mongodb database with an ETL script using jupyter notebook and pyspark API, loading the transformed data a Mysql database and further vizualition in PowerBI. 
+
+These are the steps I did to complete the project:
+
 [pre-requisites: have Java (on C:), Spark (on C:), Anaconda, Mysql and MongoDB Compass installed)
 
 ## 1) Datasets sources
