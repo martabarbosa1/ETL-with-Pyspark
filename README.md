@@ -16,7 +16,7 @@ This is the final project of the course. The goal isto use pyspark on a project 
     
  3) Create ETL script in Jupyter Notebook
  
- 4) Save data in SQL 
+ 4) Save data in a MySQL database
  
     1 -Dowload conector jar file from: https://dev.mysql.com/downloads/connector/j/
     
