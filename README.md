@@ -18,11 +18,17 @@ This is the final project of the course. The goal isto use pyspark on a project 
  
  4) Save data in SQL 
  
-    1 -Dowload the connector from: https://dev.mysql.com/downloads/connector/j/
+    1 -Dowload conector jar file from: https://dev.mysql.com/downloads/connector/j/
     
     2 - Put jar file in jar directory of Spark (C:\\Spark\jars) in my case
  
  5) Vizualize the data in PowerBI
+  
+    1 - Dowload conector installation file from: https://dev.mysql.com/downloads/connector/j/
+    
+    2 - Install the comector
+    
+    
 
 
 
