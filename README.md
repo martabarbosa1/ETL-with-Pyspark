@@ -18,7 +18,7 @@ This is the final project of the course. The goal isto use pyspark on a project 
     
     2 - follow apache spark installation as in https://phoenixnap.com/kb/install-spark-on-windows-10 until end of step7
     
-            [environment variables created:
+    3 - Created the following environemntal variables:
 
             HADOOP in C:\Hadoop
 
