@@ -14,7 +14,7 @@ These are the steps I did to complete the project:
 
 3 - Projects funded in EU 2021-2027: https://data.europa.eu/data/datasets/cordis-eu-research-projects-under-horizon-europe-2021-2027?locale=en
 
-[explanation of projects database information on https://data.europa.eu/data/datasets/cordisref-data?locale=en]
+    [explanation of projects database information on https://data.europa.eu/data/datasets/cordisref-data?locale=en]
 
 4 - Industry production worldwide 2010-2019: https://stats.oecd.org/
     
