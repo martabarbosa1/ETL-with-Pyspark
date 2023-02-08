@@ -78,7 +78,9 @@ These are the steps I did to complete the project:
 
 1 - create professional e-mail and login in power bi desktop and power bi community
 
-2- publish the report and present it by expandind the window
+2 - connect to the Mysql server (server: localhost, database: write_database_name)
+
+3 - publish the report and present it by expandind the window
     
     
     
