@@ -81,6 +81,8 @@ These are the steps I did to complete the project:
 2 - connect to the Mysql server (server: localhost, database: write_database_name)
 
 3 - publish the report and present it by expandind the window
+
+4 - https://app.powerbi.com/groups/me/reports/5daec178-fd0d-4033-863b-541822cf0080/ReportSection
     
     
     
